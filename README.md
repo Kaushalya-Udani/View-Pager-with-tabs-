@@ -1,16 +1,8 @@
-# tabbarview
+# View Pager With Tabs"
 
-A new Flutter project.
+![Screenshot_20220911_144821](https://user-images.githubusercontent.com/65672919/189520523-2c17b3ba-a8e9-4c31-8ae3-6763984390fb.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20220911_144943](https://user-images.githubusercontent.com/65672919/189520528-902ce5d5-32e9-4861-93b5-eb2d6f6414d8.png)
